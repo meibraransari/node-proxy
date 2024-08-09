@@ -1,6 +1,6 @@
 ---
 Created: 2024-08-09T10:44:19+05:30
-Updated: 2024-08-09T11:12:52+05:30
+Updated: 2024-08-09T11:13:13+05:30
 Maintainer: Ibrar Ansari
 ---
 # Node-Proxy
@@ -11,6 +11,7 @@ npm install http-proxy
 ```
 #### Create https-server.js to use HTTPS
 > Generate SSL
+
 openssl req -newkey rsa:2048 -nodes -keyout server.key -x509 -days 365 -out server.cert
 
 nano https-server.js
