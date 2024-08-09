@@ -1,6 +1,6 @@
 ---
 Created: 2024-08-09T10:44:19+05:30
-Updated: 2024-08-09T11:07:58+05:30
+Updated: 2024-08-09T11:12:04+05:30
 Maintainer: Ibrar Ansari
 ---
 # Node-Proxy
@@ -64,6 +64,12 @@ pm2 save
 
 #### Test it
 > Open browser and check with HTTP or HTTPS base on above configuration used.
+
+```
+http://your_ip
+or
+https://your_ip
+```
 ---
 ### 💼 Connect with me 👇👇 😊
 
